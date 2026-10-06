@@ -2,7 +2,7 @@
 
 # Daniel García
 
-### Software Engineer · Full-Stack Developer · Architecture & Systems Integration
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=760&lines=Software+Engineer;Full-Stack+Developer;Architecture+%26+Systems+Integration;Building+reliable+software+solutions" alt="Typing SVG" />
 
 <p>
   <a href="https://danieldge.github.io/">
@@ -117,24 +117,23 @@ Built with:
 
 ### 🌐 [Professional Portfolio](https://danieldge.github.io/)
 
-Personal portfolio with selected software projects, technologies and development work.
+Personal software portfolio featuring selected full-stack projects, technologies and development work.
 
 Includes frontend, backend and full-stack projects with links to public repositories and published demos.
 
 </td>
 <td width="50%" valign="top">
 
-### 🧩 Engineering focus
+### 🎓 [Digital Portfolio — Higher Education Assessment](https://github.com/DanielDGe/portafolio-evaluacion-superior)
 
-Areas I actively work with and continue developing:
+Academic web application built with **React, Vite and Material UI** for organizing evidence and assessment activities.
 
-- Software architecture
-- REST APIs & microservices
-- System integration
-- Authentication & authorization
-- Messaging and asynchronous processing
-- Relational databases
-- Full-stack application development
+Highlights:
+- Responsive navigation
+- Light/dark themes
+- Reading progress
+- Custom PDF viewer
+- GitHub Pages deployment
 
 </td>
 </tr>
@@ -149,6 +148,14 @@ Areas I actively work with and continue developing:
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=DanielDGe&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Daniel's GitHub stats"/>
 
 <img height="165" src="https://streak-stats.demolab.com?user=DanielDGe&hide_border=true&theme=transparent" alt="Daniel's GitHub streak"/>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielDGe/DanielDGe/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanielDGe/DanielDGe/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/DanielDGe/DanielDGe/output/github-snake.svg" />
+</picture>
 
 </div>
 
