@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/DanielDGe/DanielDGe/main/assets/profile-banner.svg" alt="Daniel García — Software Engineer animated banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=760&lines=Software+Engineer;Full-Stack+Developer;Architecture+%26+Systems+Integration;Building+reliable+software+solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=0A66C2&center=true&vCenter=true&width=620&lines=Full-Stack+Development;Architecture+%26+Integration;Distributed+Systems" alt="Typing SVG" />
 
 <p>
   <a href="https://danieldge.github.io/">
@@ -100,7 +100,11 @@ I also work with **C#, ASP.NET Core, Angular, TypeScript, Docker, RabbitMQ, Keyc
 </tr>
 </table>
 
+<br/>
+
 ---
+
+<br/>
 
 ## Recent activity
 
