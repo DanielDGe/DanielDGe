@@ -144,7 +144,7 @@ Highlights:
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-_Updating automatically from public GitHub activity..._
+- No recent public activity to show yet.
 <!--RECENT_ACTIVITY:end-->
 
 ---
