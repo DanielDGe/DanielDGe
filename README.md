@@ -144,9 +144,8 @@ Highlights:
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-- 🧱 Latest commit in [DanielDGe/danieldge.github.io](https://github.com/DanielDGe/danieldge.github.io): [pdf](https://github.com/DanielDGe/danieldge.github.io/commit/60b936b313e8aeb63331d683dfd8655be833ab90) <sub>· Apr 08</sub>
-- 🧱 Latest commit in [DanielDGe/portafolio-evaluacion-superior](https://github.com/DanielDGe/portafolio-evaluacion-superior): [chore: update LinkedIn profile URL](https://github.com/DanielDGe/portafolio-evaluacion-superior/commit/37ea8a9008fcebe1e17b1aa4fd310ff864ce867c) <sub>· Oct 06</sub>
-- 🧱 Latest commit in [DanielDGe/01-task-manager](https://github.com/DanielDGe/01-task-manager): [finalize project documentation](https://github.com/DanielDGe/01-task-manager/commit/9b240a2f6ef09b876f2593da1d6d2895380f0d5e) <sub>· Jul 16</sub>
+- 🧱 Latest commit in [DanielDGe/portafolio-evaluacion-superior](https://github.com/DanielDGe/portafolio-evaluacion-superior): [chore: update LinkedIn profile URL](https://github.com/DanielDGe/portafolio-evaluacion-superior/commit/37ea8a9008fcebe1e17b1aa4fd310ff864ce867c) <sub>· Oct 06, 2026</sub>
+- 🧱 Latest commit in [DanielDGe/01-task-manager](https://github.com/DanielDGe/01-task-manager): [finalize project documentation](https://github.com/DanielDGe/01-task-manager/commit/9b240a2f6ef09b876f2593da1d6d2895380f0d5e) <sub>· Jul 16, 2026</sub>
 <!--RECENT_ACTIVITY:end-->
 
 ---
