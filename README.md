@@ -144,11 +144,9 @@ Highlights:
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
+- 🧱 Latest commit in [DanielDGe/danieldge.github.io](https://github.com/DanielDGe/danieldge.github.io): [pdf](https://github.com/DanielDGe/danieldge.github.io/commit/60b936b313e8aeb63331d683dfd8655be833ab90) <sub>· Apr 08</sub>
 - 🧱 Latest commit in [DanielDGe/portafolio-evaluacion-superior](https://github.com/DanielDGe/portafolio-evaluacion-superior): [chore: update LinkedIn profile URL](https://github.com/DanielDGe/portafolio-evaluacion-superior/commit/37ea8a9008fcebe1e17b1aa4fd310ff864ce867c) <sub>· Oct 06</sub>
 - 🧱 Latest commit in [DanielDGe/01-task-manager](https://github.com/DanielDGe/01-task-manager): [finalize project documentation](https://github.com/DanielDGe/01-task-manager/commit/9b240a2f6ef09b876f2593da1d6d2895380f0d5e) <sub>· Jul 16</sub>
-- 🧱 Latest commit in [DanielDGe/Library](https://github.com/DanielDGe/Library): [Ajusts](https://github.com/DanielDGe/Library/commit/7f71d5de4c6d171f04ed512ee80ca3994906ea0b) <sub>· Feb 05</sub>
-- 🧱 Latest commit in [DanielDGe/ServiApp](https://github.com/DanielDGe/ServiApp): [Ajuste web history](https://github.com/DanielDGe/ServiApp/commit/8189474782a92801f9c76d9049ed3f0de81446b8) <sub>· Jul 14</sub>
-- 🧱 Latest commit in [DanielDGe/frontend](https://github.com/DanielDGe/frontend): [App funcionando](https://github.com/DanielDGe/frontend/commit/0c5ee3415034ab74d38c93db4f40e8a2a26f94e8) <sub>· Oct 25</sub>
 <!--RECENT_ACTIVITY:end-->
 
 ---
