@@ -1,6 +1,6 @@
 <div align="center">
 
-# Daniel García
+<img width="100%" src="https://raw.githubusercontent.com/DanielDGe/DanielDGe/main/assets/profile-banner.svg" alt="Daniel García — Software Engineer animated banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=760&lines=Software+Engineer;Full-Stack+Developer;Architecture+%26+Systems+Integration;Building+reliable+software+solutions" alt="Typing SVG" />
 
@@ -138,6 +138,14 @@ Highlights:
 </td>
 </tr>
 </table>
+
+---
+
+## Recent activity
+
+<!--RECENT_ACTIVITY:start-->
+_Updating automatically from public GitHub activity..._
+<!--RECENT_ACTIVITY:end-->
 
 ---
 
