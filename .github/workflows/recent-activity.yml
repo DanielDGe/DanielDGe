@@ -24,6 +24,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USER: ${{ github.repository_owner }}
+          PROFILE_REPOS: "DanielDGe/01-task-manager,DanielDGe/danieldge.github.io,DanielDGe/portafolio-evaluacion-superior"
         run: |
           python - <<'PY'
           import json
@@ -35,6 +36,11 @@ jobs:
 
           username = os.environ["GH_USER"]
           token = os.environ["GH_TOKEN"]
+          allowed_repos = {
+              repo.strip()
+              for repo in os.environ["PROFILE_REPOS"].split(",")
+              if repo.strip()
+          }
 
           headers = {
               "Accept": "application/vnd.github+json",
@@ -58,7 +64,7 @@ jobs:
           activity = []
           seen = set()
 
-          # 1) Prefer GitHub's public event feed.
+          # 1) Prefer GitHub's public event feed, but only for selected profile repos.
           events = api_get(
               f"https://api.github.com/users/{username}/events/public?per_page=50"
           )
@@ -69,7 +75,7 @@ jobs:
               payload = event.get("payload", {})
               date_label = format_date(event.get("created_at", ""))
 
-              if not repo or repo == f"{username}/{username}":
+              if repo not in allowed_repos:
                   continue
 
               repo_url = f"https://github.com/{repo}"
@@ -128,26 +134,14 @@ jobs:
               if len(activity) == 5:
                   break
 
-          # 2) Fallback: fill remaining slots with latest commits from owned public repos.
+          # 2) Fallback: latest commits only from the selected public repos.
           if len(activity) < 5:
-              repos = api_get(
-                  f"https://api.github.com/users/{username}/repos?type=owner&sort=pushed&direction=desc&per_page=20"
-              )
+              encoded_author = urllib.parse.quote(username)
 
-              for repo_data in repos:
+              for full_name in allowed_repos:
                   if len(activity) == 5:
                       break
 
-                  full_name = repo_data.get("full_name", "")
-                  if (
-                      not full_name
-                      or repo_data.get("private")
-                      or repo_data.get("fork")
-                      or full_name == f"{username}/{username}"
-                  ):
-                      continue
-
-                  encoded_author = urllib.parse.quote(username)
                   commits = api_get(
                       f"https://api.github.com/repos/{full_name}/commits?author={encoded_author}&per_page=1"
                   )
@@ -185,7 +179,7 @@ jobs:
                   )
 
           if not activity:
-              activity = ["- No recent public activity to show yet."]
+              activity = ["- No recent activity from selected public projects yet."]
 
           readme_path = "README.md"
           with open(readme_path, "r", encoding="utf-8") as file:
@@ -219,6 +213,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No activity changes."
           else
-            git commit -m "chore: refresh recent public activity"
+            git commit -m "chore: refresh selected recent activity"
             git push
           fi
