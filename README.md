@@ -77,64 +77,25 @@ I also work with **C#, ASP.NET Core, Angular, TypeScript, Docker, RabbitMQ, Keyc
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### ✅ [Task Manager Full Stack](https://github.com/DanielDGe/01-task-manager)
-
-Multi-user task management application built with **Java 17, Spring Boot, React and PostgreSQL**.
-
-Highlights:
-- Keycloak + OpenID Connect
-- JWT-protected REST API
-- Multi-user data isolation
-- Flyway migrations
-- Docker Compose
-- JUnit, Mockito & Testcontainers
-- GitHub Actions CI
-
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/DanielDGe/01-task-manager">
+  <img width="100%" src="https://raw.githubusercontent.com/DanielDGe/DanielDGe/main/assets/projects/task-manager.svg" alt="Task Manager Full Stack"/>
+</a>
 </td>
-<td width="50%" valign="top">
-
-### 🚗 FleetPulse
-
-Real-time fleet monitoring platform focused on vehicle telemetry and event-driven processing.
-
-Built with:
-- ASP.NET Core & C#
-- Angular & TypeScript
-- MQTT & SignalR
-- TimescaleDB / PostgreSQL + PostGIS
-- Redis
-- OpenTelemetry, Prometheus & Grafana
-
-> Private repository — project details shown without exposing source code.
-
+<td width="50%" align="center" valign="top">
+  <img width="100%" src="https://raw.githubusercontent.com/DanielDGe/DanielDGe/main/assets/projects/fleetpulse.svg" alt="FleetPulse"/>
 </td>
 </tr>
-
 <tr>
-<td width="50%" valign="top">
-
-### 🌐 [Professional Portfolio](https://danieldge.github.io/)
-
-Personal software portfolio featuring selected full-stack projects, technologies and development work.
-
-Includes frontend, backend and full-stack projects with links to public repositories and published demos.
-
+<td width="50%" align="center" valign="top">
+<a href="https://danieldge.github.io/">
+  <img width="100%" src="https://raw.githubusercontent.com/DanielDGe/DanielDGe/main/assets/projects/professional-portfolio.svg" alt="Professional Portfolio"/>
+</a>
 </td>
-<td width="50%" valign="top">
-
-### 🎓 [Digital Portfolio — Higher Education Assessment](https://github.com/DanielDGe/portafolio-evaluacion-superior)
-
-Academic web application built with **React, Vite and Material UI** for organizing evidence and assessment activities.
-
-Highlights:
-- Responsive navigation
-- Light/dark themes
-- Reading progress
-- Custom PDF viewer
-- GitHub Pages deployment
-
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/DanielDGe/portafolio-evaluacion-superior">
+  <img width="100%" src="https://raw.githubusercontent.com/DanielDGe/DanielDGe/main/assets/projects/digital-portfolio.svg" alt="Digital Portfolio — Higher Education Assessment"/>
+</a>
 </td>
 </tr>
 </table>
