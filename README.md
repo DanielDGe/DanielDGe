@@ -104,8 +104,6 @@ I also work with **C#, ASP.NET Core, Angular, TypeScript, Docker, RabbitMQ, Keyc
 
 ---
 
-<br/>
-
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
