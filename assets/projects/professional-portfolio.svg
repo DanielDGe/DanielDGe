@@ -4,14 +4,14 @@
       <stop offset="0%" stop-color="#07111f"/>
       <stop offset="100%" stop-color="#10244d"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" x2="1">
+    <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#3b82f6"/>
       <stop offset="100%" stop-color="#8b5cf6"/>
     </linearGradient>
   </defs>
   <rect width="760" height="300" rx="24" fill="url(#bg)"/>
   <rect x="1" y="1" width="758" height="298" rx="23" fill="none" stroke="#294056"/>
-  <rect x="0" y="0" width="760" height="6" rx="3" fill="url(#accent)"/>
+  <rect x="5" y="30" width="6" height="240" rx="3" fill="url(#accent)"/>
   <circle cx="66" cy="67" r="30" fill="#14284f" stroke="#60a5fa"/>
   <circle cx="66" cy="67" r="16" fill="none" stroke="#93c5fd" stroke-width="4"/>
   <path d="M50 67h32M66 51c8 8 8 24 0 32M66 51c-8 8-8 24 0 32" fill="none" stroke="#93c5fd" stroke-width="3"/>
