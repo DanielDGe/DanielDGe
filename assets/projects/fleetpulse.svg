@@ -4,14 +4,14 @@
       <stop offset="0%" stop-color="#07111f"/>
       <stop offset="100%" stop-color="#0b2432"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" x2="1">
+    <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#06b6d4"/>
       <stop offset="100%" stop-color="#3b82f6"/>
     </linearGradient>
   </defs>
   <rect width="760" height="300" rx="24" fill="url(#bg)"/>
   <rect x="1" y="1" width="758" height="298" rx="23" fill="none" stroke="#294056"/>
-  <rect x="0" y="0" width="760" height="6" rx="3" fill="url(#accent)"/>
+  <rect x="5" y="30" width="6" height="240" rx="3" fill="url(#accent)"/>
   <circle cx="66" cy="67" r="30" fill="#0a2d38" stroke="#22d3ee"/>
   <path d="M48 73h36l-5-15H57zM55 73a8 8 0 1 0 0 16 8 8 0 0 0 0-16zm23 0a8 8 0 1 0 0 16 8 8 0 0 0 0-16z" fill="none" stroke="#67e8f9" stroke-width="4" stroke-linejoin="round"/>
   <text x="116" y="62" fill="#ffffff" font-family="Segoe UI,Arial,sans-serif" font-size="30" font-weight="700">FleetPulse</text>
