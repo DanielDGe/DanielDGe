@@ -117,7 +117,7 @@ I also work with **C#, ASP.NET Core, Angular, TypeScript, Docker, RabbitMQ, Keyc
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-- 🧱 Latest commit in [DanielDGe/danieldge.github.io](https://github.com/DanielDGe/danieldge.github.io): [docs: translate roadmap and add UX development principles](https://github.com/DanielDGe/danieldge.github.io/commit/b0d5d942313296d7dd78cfff292c3ca458d92d6c) <sub>· Oct 07, 2026</sub>
+- 🧱 Latest commit in [DanielDGe/danieldge.github.io](https://github.com/DanielDGe/danieldge.github.io): [docs: complete repository preparation phase](https://github.com/DanielDGe/danieldge.github.io/commit/f637e16bed98f96b28b5cad7b1c4d5c87329d0e9) <sub>· Oct 07, 2026</sub>
 - 🧱 Latest commit in [DanielDGe/portafolio-evaluacion-superior](https://github.com/DanielDGe/portafolio-evaluacion-superior): [chore: update LinkedIn profile URL](https://github.com/DanielDGe/portafolio-evaluacion-superior/commit/37ea8a9008fcebe1e17b1aa4fd310ff864ce867c) <sub>· Oct 06, 2026</sub>
 - 🧱 Latest commit in [DanielDGe/01-task-manager](https://github.com/DanielDGe/01-task-manager): [finalize project documentation](https://github.com/DanielDGe/01-task-manager/commit/9b240a2f6ef09b876f2593da1d6d2895380f0d5e) <sub>· Jul 16, 2026</sub>
 <!--RECENT_ACTIVITY:end-->
