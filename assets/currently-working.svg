@@ -5,7 +5,7 @@
       <stop offset="55%" stop-color="#0b1f33"/>
       <stop offset="100%" stop-color="#0b2b3a"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" x2="1">
+    <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#06b6d4"/>
       <stop offset="100%" stop-color="#3b82f6"/>
     </linearGradient>
@@ -13,7 +13,7 @@
 
   <rect width="1100" height="180" rx="22" fill="url(#bg)"/>
   <rect x="1" y="1" width="1098" height="178" rx="21" fill="none" stroke="#28445c"/>
-  <rect x="0" y="0" width="1100" height="5" rx="3" fill="url(#accent)"/>
+  <rect x="5" y="24" width="6" height="132" rx="3" fill="url(#accent)"/>
 
   <circle cx="62" cy="62" r="9" fill="#22c55e">
     <animate attributeName="opacity" values="0.35;1;0.35" dur="1.8s" repeatCount="indefinite"/>
