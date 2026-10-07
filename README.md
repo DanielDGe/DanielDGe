@@ -32,6 +32,16 @@ I also work with **C#, ASP.NET Core, Angular, TypeScript, Docker, RabbitMQ, Keyc
 
 ---
 
+## Currently working on
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/DanielDGe/DanielDGe/main/assets/currently-working.svg" alt="Currently working on FleetPulse" />
+
+</div>
+
+---
+
 ## Tech stack
 
 <div align="center">
