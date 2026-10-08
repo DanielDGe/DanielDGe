@@ -118,6 +118,8 @@ I also work with **C#, ASP.NET Core, Angular, TypeScript, Docker, RabbitMQ, Keyc
 
 <!--RECENT_ACTIVITY:start-->
 - 🧱 Latest commit in [DanielDGe/danieldge.github.io](https://github.com/DanielDGe/danieldge.github.io): [docs: complete repository preparation phase](https://github.com/DanielDGe/danieldge.github.io/commit/f637e16bed98f96b28b5cad7b1c4d5c87329d0e9) <sub>· Oct 07, 2026</sub>
+- 🌿 Created branch **feature/portfolio-redesign-2026** in [DanielDGe/danieldge.github.io](https://github.com/DanielDGe/danieldge.github.io) <sub>· Oct 07, 2026</sub>
+- 🌿 Created branch **legacy-portfolio-2022** in [DanielDGe/danieldge.github.io](https://github.com/DanielDGe/danieldge.github.io) <sub>· Oct 07, 2026</sub>
 - 🧱 Latest commit in [DanielDGe/portafolio-evaluacion-superior](https://github.com/DanielDGe/portafolio-evaluacion-superior): [chore: update LinkedIn profile URL](https://github.com/DanielDGe/portafolio-evaluacion-superior/commit/37ea8a9008fcebe1e17b1aa4fd310ff864ce867c) <sub>· Oct 06, 2026</sub>
 - 🧱 Latest commit in [DanielDGe/01-task-manager](https://github.com/DanielDGe/01-task-manager): [finalize project documentation](https://github.com/DanielDGe/01-task-manager/commit/9b240a2f6ef09b876f2593da1d6d2895380f0d5e) <sub>· Jul 16, 2026</sub>
 <!--RECENT_ACTIVITY:end-->
